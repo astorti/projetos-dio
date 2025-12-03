@@ -43,4 +43,9 @@ Este repositório tem como objetivo implementar os **desafios de projetos** conc
 - JAVA
 
     > **Criando seu Board de Tarefas com Java** <br>
-    > Projeto | Data conclusão: 03/12/2025
+    > [Projeto](https://github.com/astorti/projetos-dio/tree/main/Java/Board) | Data conclusão: 03/12/2025
+
+    <hr>
+
+    > **Criando um Jogo do Sudoku em Java** <br>
+    > [Projeto](https://github.com/astorti/projetos-dio/tree/main/Java/JogoSudoku) | Data conclusão: 09/10/2025
