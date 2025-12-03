@@ -8,31 +8,39 @@ Este repositório tem como objetivo implementar os **desafios de projetos** conc
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
+
 <hr>
 
 ### Projetos
 
-#### C#
+- C#
 
-> **Construindo um Sistema para um Estacionamento com C#** <br>
-Projeto | Data conclusão: 20/09/2022 
+    > **Construindo um Sistema para um Estacionamento com C#** <br>
+    > [Projeto](https://github.com/astorti/projetos-dio/tree/main/C%23/DesafioEstacionamento) | Data conclusão: 20/09/2022 
+
+    <hr>
+
+    > **Construindo um Sistema de Hospedagem de um Hotel no C#** <br>
+    > [Projeto](https://github.com/astorti/projetos-dio/tree/main/C%23/DesafioHospedagemHotel) | Data conclusão: 29/09/2022 
+
+    <hr>
+
+    > **Criando um Sistema e Abstraindo um Celular com POO em C#** <br>
+    > [Projeto](https://github.com/astorti/projetos-dio/tree/main/C%23/DesafioAbstrairUmCelularComPOO) | Data conclusão: 01/10/2022 
+
+    <hr>
+
+    > **Construindo um Sistema de Agendamento de Tarefas com Entity Framework** <br>
+    > [Projeto](https://github.com/astorti/projetos-dio/tree/main/C%23/SistemaAgendamentoTarefas) | Data conclusão: 10/10/2022 
+
+    <hr>
+
+    > **Desafio Tech Pottencial: Payment API** <br>
+    > [Projeto](https://github.com/astorti/projetos-dio/tree/main/C%23/PaymentAPI-ProjetoFinal) | Data conclusão: 24/10/2022 
 
 <hr>
 
-> **Construindo um Sistema de Hospedagem de um Hotel no C#** <br>
-Projeto | Data conclusão: 29/09/2022 
+- JAVA
 
-<hr>
-
-> **Criando um Sistema e Abstraindo um Celular com POO em C#** <br>
-Projeto | Data conclusão: 01/10/2022 
-
-<hr>
-
-> **Construindo um Sistema de Agendamento de Tarefas com Entity Framework** <br>
-Projeto | Data conclusão: 10/10/2022 
-
-<hr>
-
-> **Desafio Tech Pottencial: Payment API** <br>
-Projeto | Data conclusão: 24/10/2022 
+    > **Criando seu Board de Tarefas com Java** <br>
+    > Projeto | Data conclusão: 03/12/2025
