@@ -6,8 +6,7 @@ Este repositório tem como objetivo implementar os **desafios de projetos** conc
 
 ### Tecnologias
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
+![My Skills](https://skillicons.dev/icons?i=cs,java,javascript,python&theme=dark)
 
 <hr>
 
@@ -49,3 +48,26 @@ Este repositório tem como objetivo implementar os **desafios de projetos** conc
 
     > **Criando um Jogo do Sudoku em Java** <br>
     > [Projeto](https://github.com/astorti/projetos-dio/tree/main/Java/JogoSudoku) | Data conclusão: 09/10/2025
+
+<hr>
+
+- JAVASCRIPT
+
+    > **Escrevendo as Classes de um Jogo** <br>
+    > [Projeto](https://github.com/astorti/projetos-dio/tree/main/Javascript/EscrevendoAsClassesDeUmJogo) | Data conclusão: 03/09/2025
+
+    <hr>
+
+    > **Calculadora de Partidas Ranqueadas** <br>
+    > [Projeto](https://github.com/astorti/projetos-dio/tree/main/Javascript/CalculadoraDePartidasRanqueadas) | Data conclusão: 02/09/2025
+
+    <hr>
+
+    > **Classificador de Nível de Herói** <br>
+    > [Projeto](https://github.com/astorti/projetos-dio/tree/main/Javascript/ClassificadorDeNivelDeHeroi) | Data conclusão: 01/09/2025
+
+
+- PYTHON
+
+    > **Otimizando o Sistema Bancário com Funções Python** <br>
+    > [Projeto](https://github.com/astorti/projetos-dio/tree/main/Python/SistemaBancario) | Data conclusão: 05/12/2025
