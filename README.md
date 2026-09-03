@@ -6,7 +6,7 @@ Este repositório tem como objetivo implementar os **desafios de projetos** conc
 
 ### Tecnologias
 
-![My Skills](https://skillicons.dev/icons?i=cs,java,javascript,python,github&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=cs,java,javascript,kotlin,python,github&theme=dark)
 
 <hr/>
 
@@ -81,6 +81,14 @@ Este repositório tem como objetivo implementar os **desafios de projetos** conc
 >![JavaScript](https://img.shields.io/badge/Javascript-%23F7DF1E.svg?logo=javascript&logoColor=%230009)<br/>
 > **Classificador de Nível de Herói** <br/>
 > [Projeto](https://github.com/astorti/projetos-dio/tree/main/Javascript/ClassificadorDeNivelDeHeroi) | Data conclusão: 01/09/2025
+
+<hr/>
+<hr/>
+<br/>
+
+> ![Kotlin](https://img.shields.io/badge/Kotlin-222.svg?logo=kotlin)<br/>
+> **Abstraindo Formações da DIO Usando Orientação a Objetos com Kotlin**<br/>
+[Projeto](https://github.com/astorti/projetos-dio/tree/main/Kotlin/AbstraindoFormacoesDIO-UsandoOrientacaoObjetosComKotlin) | Data conclusão: 03/09/2026
 
 <hr/>
 <hr/>
