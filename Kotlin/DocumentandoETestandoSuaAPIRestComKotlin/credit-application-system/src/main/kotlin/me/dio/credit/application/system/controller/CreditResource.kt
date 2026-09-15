@@ -1,5 +1,7 @@
 package me.dio.credit.application.system.controller
 
+import io.swagger.v3.oas.annotations.Operation
+import io.swagger.v3.oas.annotations.Parameter
 import jakarta.validation.Valid
 import me.dio.credit.application.system.dto.CreditDto
 import me.dio.credit.application.system.dto.CreditView
@@ -23,6 +25,10 @@ import java.util.stream.Collectors
 class CreditResource(
     private val creditService: CreditService,
 ) {
+    @Operation(
+        summary = "Criar um novo crédito",
+        description = "Gera um novo crédito para um cliente identificado pelo numberID"
+    )
     @PostMapping
     fun saveCredit(@RequestBody @Valid creditDto: CreditDto): ResponseEntity<String> {
         val credit: Credit = this.creditService.save(creditDto.toEntity())
@@ -30,8 +36,14 @@ class CreditResource(
             .body("Credit ${credit.creditCode} - Customer ${credit.customer.firstName} saved!")
     }
 
+    @Operation(
+        summary = "Buscar vários créditos",
+        description = "Encontra todos os créditos registrados para um específico cliente"
+    )
     @GetMapping
-    fun findAllByCustomerId(@RequestParam(value = "customerId") customerId: Long):
+    fun findAllByCustomerId(
+        @Parameter(description = "ID do cliente")
+        @RequestParam(value = "customerId") customerId: Long):
             ResponseEntity<List<CreditViewList>> {
         val creditViewList: List<CreditViewList> = this.creditService.findAllByCustomer(customerId).stream()
             .map { credit: Credit -> CreditViewList(credit) }
@@ -39,8 +51,13 @@ class CreditResource(
         return ResponseEntity.status(HttpStatus.OK).body(creditViewList)
     }
 
+    @Operation(
+        summary = "Buscar um crédito",
+        description = "Encontra no banco de dados um crédito específico através do número do crédito e do id do cliente"
+    )
     @GetMapping("/{creditCode}")
     fun findByCreditCode(
+        @Parameter(description = "Número do crédito / ID do cliente")
         @RequestParam(value = "customerId") customerId: Long,
         @PathVariable creditCode: UUID
     ): ResponseEntity<CreditView> {
