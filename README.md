@@ -91,6 +91,12 @@ Este repositório tem como objetivo implementar os **desafios de projetos** conc
 [Projeto](https://github.com/astorti/projetos-dio/tree/main/Kotlin/AbstraindoFormacoesDIO-UsandoOrientacaoObjetosComKotlin) | Data conclusão: 03/09/2026
 
 <hr/>
+
+> ![Kotlin](https://img.shields.io/badge/Kotlin-222.svg?logo=kotlin)<br/>
+> **Documentando e Testando sua API REST com Kotlin**<br/>
+[Projeto](https://github.com/astorti/projetos-dio/tree/main/Kotlin/DocumentandoETestandoSuaAPIRestComKotlin/credit-application-system) | Data conclusão: 19/09/2026
+
+<hr/>
 <hr/>
 <br/>
 
