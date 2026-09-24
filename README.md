@@ -100,6 +100,14 @@ Este repositório tem como objetivo implementar os **desafios de projetos** conc
 <hr/>
 <br/>
 
+>![Linux](https://img.shields.io/badge/Linux-%23000?logo=linux)<br/>
+> **Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões** <br/>
+> [Projeto](https://github.com/astorti/projetos-dio/tree/main/Linux/InfraestruturaComoCodigo) | Data conclusão: 24/09/2026
+
+<hr/>
+<hr/>
+<br/>
+
 >![Python](https://img.shields.io/badge/Python-%23FFE873EE?logo=python)<br/>
 > **Otimizando o Sistema Bancário com Funções Python** <br/>
 > [Projeto](https://github.com/astorti/projetos-dio/tree/main/Python/SistemaBancario) | Data conclusão: 05/12/2025
