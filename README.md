@@ -6,7 +6,7 @@ Este repositório tem como objetivo implementar os **desafios de projetos** conc
 
 ### Tecnologias
 
-![My Skills](https://skillicons.dev/icons?i=cs,java,javascript,kotlin,python,github&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=cs,github,java,javascript,kotlin,linux,python&theme=dark)
 
 <hr/>
 
@@ -103,6 +103,12 @@ Este repositório tem como objetivo implementar os **desafios de projetos** conc
 >![Linux](https://img.shields.io/badge/Linux-%23000?logo=linux)<br/>
 > **Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões** <br/>
 > [Projeto](https://github.com/astorti/projetos-dio/tree/main/Linux/InfraestruturaComoCodigo) | Data conclusão: 24/09/2026
+
+<hr/>
+
+>![Linux](https://img.shields.io/badge/Linux-%23000?logo=linux)<br/>
+> **Infraestrutura como Código: Script de Provisionamento de um Servidor Web (Apache)** <br/>
+> [Projeto](https://github.com/astorti/projetos-dio/tree/main/Linux/ScriptProvisionamentoServidorWebApache) | Data conclusão: 28/09/2026
 
 <hr/>
 <hr/>
